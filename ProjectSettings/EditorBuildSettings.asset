@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 862f61259f06bdd4597c76d52acddd5f
+  - enabled: 1
+    path: Assets/Scenes/La taberna del Dragon.unity
+    guid: b46bc9c5d6b7adf47ad6ef0738eb8dc4
+  - enabled: 1
+    path: Assets/Scenes/IntroNewGame.unity
+    guid: 4bb8db54774f490438032df7569ad222
+  m_configObjects: {}
