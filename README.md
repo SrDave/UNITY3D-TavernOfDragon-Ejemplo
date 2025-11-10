@@ -1,7 +1,7 @@
 # 🎮 The Tavern of Dragon  
 ### **GDD – Game Design Document**  
 **Autor:** David Ramos Domingo  
-📧 **Contacto:** dramdom@alumno.upv.es  
+📧 **Contacto:** darado80@gmail.com  
 
 ---
 
